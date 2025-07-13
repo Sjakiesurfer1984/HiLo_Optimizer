@@ -42,12 +42,14 @@ Data tab content:
 <img width="1760" height="148" alt="image" src="https://github.com/user-attachments/assets/c09b0e69-5c1d-4df3-9994-77a252ef03b0" />
 
 Optimization tab content:
+
 <img width="748" height="648" alt="image" src="https://github.com/user-attachments/assets/f5958651-3de9-461f-b7a3-451f4abea0fa" />
 
 Plots tab content:
 <img width="1875" height="1094" alt="image" src="https://github.com/user-attachments/assets/5fff0b6d-cd50-4ab9-88e2-d35e7e254572" />
 
 <img width="1875" height="1094" alt="image" src="https://github.com/user-attachments/assets/238758cb-3b60-4736-b3b5-4a11370e9134" />
+
 
 <img width="1875" height="1094" alt="image" src="https://github.com/user-attachments/assets/36654b8f-657d-4a35-a771-2368941737a1" />
 
