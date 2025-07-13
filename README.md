@@ -1,6 +1,9 @@
 A command line app that pulls historical financial data from Yahoo Finance (free), and calculates roling averages (adjustable windows) of the High and Low prices  of an assett. 
 
-If today's stock/ETF/Crypto price is higher than avg_hi => BUY. If today's price is lower then avg_lo => Selll. 
+If today's stock/ETF/Crypto price is higher than avg_hi => BUY. If today's price is lower then avg_lo => Sell. This strategy is very similar to a simple moving average (SMA) strategy. Hence, 
+you are always in a trade (buy/long) or short*.
+
+* Note that shorting means selling something you've just borrowed, hoping to purchase it back later at a lower price and return it to the original owner. 
 
 The app simulates (backtests) trades and plots results. 
 
@@ -11,7 +14,7 @@ pip install - r requirements.txt
 
 Then run main.py.
 
-Alternatively, you can run the ap_gui.py. However, the PySimpleGUI package requires you to registrate. After a free trial period, you are then asked to pay. 
+Alternatively, you can run the ap_gui.py. However, the PySimpleGUI package requires you to register. After a free trial period, you are then asked to pay. 
 
 Or Pull the repository and run locally in your IDE of choice. 
 
@@ -54,3 +57,12 @@ Plots tab content:
 <img width="1875" height="1094" alt="image" src="https://github.com/user-attachments/assets/36654b8f-657d-4a35-a771-2368941737a1" />
 
 
+
+
+TO DO's:
+
+- Add option to go LONG only
+- Create free GUI with e.g. Tkinter
+- Add going long/short with Options or Futures
+
+ 
